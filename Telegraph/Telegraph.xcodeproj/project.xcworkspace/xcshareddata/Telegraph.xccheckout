@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8893CCBA-5711-4283-A234-EFCF87C4E8F0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Telegraph</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C1D49362-3DC5-4B30-BC85-CDBB0FEEE8A5</key>
+		<string>https://github.com/ghostiman/telegram_iOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Telegraph/Telegraph.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C1D49362-3DC5-4B30-BC85-CDBB0FEEE8A5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ghostiman/telegram_iOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C1D49362-3DC5-4B30-BC85-CDBB0FEEE8A5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C1D49362-3DC5-4B30-BC85-CDBB0FEEE8A5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>telegram_iphone</string>
+		</dict>
+	</array>
+</dict>
+</plist>
